@@ -1,0 +1,4 @@
+<structure interface="be.nabu.eai.module.scheduler.provider.api.SchedulerProvider.run" name="pipeline">
+    <structure name="input"/>
+    <structure name="output"/>
+</structure>
